@@ -1,0 +1,16 @@
+{
+  "name": "tryingrender",
+  "version": "1.0.0",
+  "description": "trying deploying to render from my computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
