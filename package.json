@@ -4,7 +4,8 @@
   "description": "trying deploying to render from my computer",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
